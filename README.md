@@ -63,14 +63,14 @@ Correlation and boxplot visualizations were used to understand relationships:
 ## File Structure
 
 ```
-📂 blood-pressure-dss/
-├── 📄 README.md
-├── 📄 dss_model.ipynb         # Model implementation
-├── 📊 figures/
+ blood-pressure-dss/
+├──  README.md
+├──  dss_model.ipynb         # Model implementation
+├──  figures/
 │   ├── correlation_heatmap.png
 │   ├── systolic_distribution.png
 │   └── ...
-└── 📂 data/
+└──  data/
     └── framingham.csv
 ```
 
@@ -78,7 +78,7 @@ Correlation and boxplot visualizations were used to understand relationships:
 
 This DSS demonstrates how machine learning can assist in the early detection of blood pressure disorders. By identifying individuals at risk, proactive monitoring and treatment can reduce long-term health complications and healthcare costs.
 
-## 🚀 Future Work
+## Future Work
 
 - Integration with real-time IoT monitoring devices
 - Expansion of features (e.g., ECG data, lifestyle habits)
